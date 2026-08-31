@@ -758,21 +758,23 @@ The longer-term research direction is toward:
 
 # 📊 Portfolio Outcomes
 
-Completion of the 18 projects should demonstrate practical and research capability across:
+The 18 capstone projects collectively span the following cybersecurity
+engineering and research domains:
 
-| Capability              | Coverage   |
-| ----------------------- | ---------- |
-| Security Engineering    | ██████████ |
-| Threat Detection        | ██████████ |
-| AI Security             | ██████████ |
-| Cloud Security          | ██████████ |
-| SOC & Incident Response | ██████████ |
-| Digital Forensics       | ██████████ |
-| IoT Security            | ██████████ |
-| Critical Infrastructure | ██████████ |
-| Cryptography            | ██████████ |
-| DevSecOps               | ██████████ |
-| Emerging Technologies   | ██████████ |
+| Domain | Primary Focus |
+|---|---|
+| 🛡️ Security Engineering | Secure system design, architecture & resilience |
+| 🎯 Threat Detection | Detection, analysis & threat intelligence |
+| 🤖 AI & AI Security | Intelligent defense & secure AI systems |
+| ☁️ Cloud Security | Cloud infrastructure & cloud-native protection |
+| 🛰️ Security Operations | SOC, monitoring & incident response |
+| 🔬 Digital Forensics | Evidence analysis & cyber investigations |
+| 📡 IoT Security | Connected devices & distributed environments |
+| 🏭 Critical Infrastructure | Cyber-physical protection & resilience |
+| 🔐 Cryptography | Secure communication & post-quantum security |
+| ⚙️ DevSecOps | Secure development & software supply chains |
+| 🪪 Identity & Privacy | Authentication, authorization & privacy |
+| 🚗 Autonomous Systems | Vehicle, satellite & autonomous-system security |
 
 ---
 
