@@ -801,19 +801,38 @@ The goal is to demonstrate not only **what was built**, but also:
 
 ---
 
-# ⚖️ Ethical & Responsible Security
+# ⚖️ Ethical, Responsible & Secure Research
 
-All cybersecurity experimentation in this repository must be conducted within authorized and controlled environments.
+All cybersecurity research, experimentation, development, and testing
+conducted within this repository must be performed exclusively in
+authorized, isolated, and controlled environments.
 
-Offensive-security, malware-analysis, vulnerability-testing, and red-team activities must never be performed against systems without explicit authorization.
+Offensive-security research, malware analysis, vulnerability assessment,
+penetration testing, red-team activities, and security experimentation
+must not be conducted against systems, networks, applications, or data
+without explicit authorization.
 
-Privacy, responsible disclosure, data protection, research ethics, and system safety are fundamental requirements of the portfolio.
+All projects are developed with consideration for:
+
+- Responsible cybersecurity research
+- Privacy and data protection
+- Secure handling of research data
+- Responsible vulnerability disclosure
+- Research integrity and reproducibility
+- System safety and operational resilience
+- Legal and ethical requirements
+- Prevention of unintended harm or misuse
+
+Security, privacy, safety, and responsible research practices are treated
+as fundamental design requirements throughout this portfolio.
+
+---
 
 <p align="center">
 
 **18 Projects • 18 Security Challenges • One Integrated Cybersecurity Portfolio**
 
-*Building toward secure, intelligent, resilient and future-ready digital systems.*
+<em>Engineering secure, intelligent, resilient, privacy-conscious,
+and future-ready digital systems.</em>
 
 </p>
-```
