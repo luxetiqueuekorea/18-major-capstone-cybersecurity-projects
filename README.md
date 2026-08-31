@@ -758,8 +758,7 @@ The longer-term research direction is toward:
 
 # 📊 Portfolio Outcomes
 
-The 18 capstone projects collectively span the following cybersecurity
-engineering and research domains:
+The 18 capstone projects collectively encompass a comprehensive range of cybersecurity engineering and research domains, along with their respective primary areas of focus:
 
 | Domain | Primary Focus |
 |---|---|
