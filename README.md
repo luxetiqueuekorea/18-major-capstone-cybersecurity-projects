@@ -829,11 +829,12 @@ as fundamental design requirements throughout this portfolio.
 
 ---
 
-<p align="center">
+## 18 Projects. One Integrated Security Portfolio.
 
-**18 Projects • 18 Security Challenges • One Integrated Cybersecurity Portfolio**
+**Cybersecurity Engineering • Threat Detection • Secure Systems • AI Security**
 
-<em>Engineering secure, intelligent, resilient, privacy-conscious,
-and future-ready digital systems.</em>
+A hands-on portfolio spanning **vulnerability discovery, SOC operations, application security, cloud security, AI-driven threat detection, and secure systems engineering**.
 
-</p>
+> **Secure by Design. Detect with Intelligence. Build for Resilience.**
+
+`18 Projects` · `18 Security Challenges` · `1 Integrated Portfolio`
