@@ -829,12 +829,10 @@ as fundamental design requirements throughout this portfolio.
 
 ---
 
-## 18 Projects. One Integrated Security Portfolio.
+This portfolio brings together **18 cybersecurity projects** exploring the design, implementation, evaluation, and evolution of secure digital systems across AI, security operations, cloud security, application security, cryptography, digital identity, digital forensics, and cyber-physical environments.
 
-**Cybersecurity Engineering • Threat Detection • Secure Systems • AI Security**
+The work follows a consistent principle: **security is not an isolated feature, but an engineering discipline shaped by threats, architecture, evidence, resilience, privacy, and continuous evaluation.** Each project provides an opportunity to investigate a security problem, develop a practical approach, examine its limitations, and identify directions for further research.
 
-A hands-on portfolio spanning **vulnerability discovery, SOC operations, application security, cloud security, AI-driven threat detection, and secure systems engineering**.
+As cybersecurity continues to evolve toward **AI-assisted, adaptive, autonomous, and privacy-preserving systems**, the emphasis remains on building technologies that are not only capable, but also **secure, explainable, resilient, and responsibly engineered**.
 
-> **Secure by Design. Detect with Intelligence. Build for Resilience.**
-
-`18 Projects` · `18 Security Challenges` · `1 Integrated Portfolio`
+> **Understand the threat. Engineer the defense. Validate the system. Advance the research.**
